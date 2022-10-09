@@ -1,8 +1,1 @@
-share
-bin
-etc
-include
-lib
-lib64
-pyvenv.cfg
-Scripts
+venv
